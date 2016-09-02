@@ -28,7 +28,11 @@ public class Pila {
         Menu();
     }
     public static void Presentacion ()throws IOException{
-            System.out.println("");
+            System.out.println("INGENIERIA DE SOFTWARE II");
+            System.out.println("PALACIOS LOOR STEFANY LILIBETH");
+            System.out.println("RUBRICA 32 ");
+            System.out.println("INTEGRACION DE TRAVIS CI Y GITHUB");
+            System.out.println("5 COMMITS Y 5 BUILDS");
     Menu();
     
 }
