@@ -8,5 +8,8 @@
  * @author Athlon
  */
 public class NewClass {
-
+public void presentacion (){
+    System.out.println("INGENIERA DE SOFTWARE II");
+   
+}
 }
