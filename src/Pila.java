@@ -24,8 +24,14 @@ public class Pila {
      */
     public static void main(String[] args)throws IOException{
         // TODO code application logic here
+        Presentacion();
         Menu();
     }
+    public static void Presentacion ()throws IOException{
+            System.out.println("");
+    Menu();
+    
+}
 public static void Menu()throws IOException{
      System.out.println("\n\n\t\t\t=========Menú Manejo Pila=============");
      System.out.println("\t\t\t=                                    =");
