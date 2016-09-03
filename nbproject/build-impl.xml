@@ -121,9 +121,9 @@ is divided into following sections:
             </and>
         </condition>
         <condition property="have.tests">
-            <or>
+           <!-- <or>
                 <available file="${test.src.dir}"/>
-            </or>
+            </or>-->
         </condition>
         <condition property="have.sources">
             <or>
